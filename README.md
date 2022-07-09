@@ -2,6 +2,8 @@
 
 Fala, galera! Tudo bem? Meu nome é Tereza e eu serei a instrutora da aula de Automação de Testes. 
 
+[Clique aqui](https://github.com/reprograma/On16-TodasEmTech-S15-Automacao-Testes/blob/main/material%20aula/Automa%C3%A7%C3%A3o%20de%20Testes%20%7Breprograma%7D.pdf), para acessar o material da aula. 
+
 O nível da nossa aula é introdutório, onde aprenderemos o que é e como fazer testes desde a fase inicial de construção de uma aplicação (teste unitário), como também na fase de um projeto já pronto e estruturado (teste de API). Vamos entender os tipos e regras de testes, conceitos que envolvem qualidade, investimentos e a famosa pirâmide de testes. 
 
 Nós iremos colocar a mão no código, padronizando códigos com o ESLint e criando testes com as ferramentas Jest e Supertest.
@@ -10,16 +12,23 @@ Durante a aula, nós vamos utilizar dois projetos:
 
 - O diretório projeto1 será para testes estáticos e unitários. Vamos criar alguns códigos, padronizar e fazer leitura de testes usando ESLint, e fazer testes manuais construindo um framework. 
 
-- O segundo projeto será para teste de API, nos guiaremos com o arquivo md ``testesAPI.md``. Se observarem, é a mesma API Livraria que praticamos na aula de integração MongoDB. O objetivo é testar os endpoints que elaboramos. Aprenderemos como testar com as ferramentas Jest e Supertest.
+- O segundo projeto será para teste de API, nos guiaremos com o arquivo md ``testesAPI.md``. Se observarem, é a mesma API Livraria que praticamos na aula [Integração Banco de Dabos](https://github.com/reprograma/On16-TodasEmTech-S12-Intro-BD). O objetivo é testar os endpoints que elaboramos. Aprenderemos como testar com a ferramenta Jest.
 
 ----------------------------------------
 
 ## ATIVIDADE PARA CASA
 
-A atividade para casa será reproduzir os testes na mesma API que você utilizou na atividade da aula Integração Banco de Dados.
+A atividade para casa será reproduzir os testes na mesma API que você utilizou na atividade da aula Integração Banco de Dados. Você deverá seguir o passo a passo do teste de API, que está no arquivo ``testeAPI.md`` e aplicar na API de sua escolha.
 
-Você deverá seguir o passo a passo do teste de API, que está no arquivo ``testeAPI.md".
+A atividade será avaliada nos seguintes critérios:
 
+- Criação de pasta e arquivo de test;
+
+- Estutura de código para teste das rotas da API;
+
+- Sintaxe de testes usando describe e matchers;
+
+- Uso do Jest e ESLint.
 
 ------------------------------------------------------------------------
 
